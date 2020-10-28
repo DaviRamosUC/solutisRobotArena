@@ -1,0 +1,1 @@
+O robô foi criado com intenção de superar todos os robôs do pacote sample. Basicamente, o robô irá localizar o tamanho da arena e percorrer sua lateral tentando eliminar os adversários, caso seja atingido, irá fazer um percurso de desvio e repetir o processo.

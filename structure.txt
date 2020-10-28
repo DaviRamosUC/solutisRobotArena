@@ -1,0 +1,10 @@
+{
+    "name": "BlackDragon",
+    "tag": "DAUCSAL",
+    "pilot": "Davi",
+    "mainFile": "src/path/to/file.cs",
+    "supportFiles": [
+        "src/path/to/optional_file_1.cs",
+        "src/path/to/optional_file_2.cs",
+        "src/path/to/optional_file_3.cs"]
+}
